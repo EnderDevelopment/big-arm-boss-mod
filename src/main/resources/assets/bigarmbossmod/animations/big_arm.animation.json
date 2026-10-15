@@ -1,0 +1,14 @@
+{
+  "animations": {
+    "attack": {
+      "loop": false,
+      "animation_length": 1.0,
+      "bones": {
+        "arm": {
+          "rotation": [0, 0, 0],
+          "position": [0, 0, 0]
+        }
+      }
+    }
+  }
+}

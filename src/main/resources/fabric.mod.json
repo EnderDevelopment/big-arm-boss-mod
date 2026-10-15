@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "bigarmbossmod",
+  "version": "1.0.0",
+  "name": "Big Arm Boss Mod",
+  "description": "A Fabric mod for Minecraft Bedrock Edition featuring a massive mechanical boss named Big Arm.",
+  "authors": ["Emiliano Cruz"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.emilianocruzh09.bigarmbossmod.BigArmBossMod"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "1.21.4"
+  }
+}

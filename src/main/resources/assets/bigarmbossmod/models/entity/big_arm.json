@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:entity/armor_stand",
+  "textures": {
+    "0": "bigarmbossmod:textures/entity/big_arm.png"
+  }
+}
